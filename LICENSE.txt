@@ -20,5 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Before publishing, replace [YEAR] and [COPYRIGHT HOLDER] with the appropriate
-year and copyright holder, and confirm that you have the right to license the code.
